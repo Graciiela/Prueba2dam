@@ -7,7 +7,7 @@ Hola soy Graciela
 _Texto prueba5_
 **Texto prueba6**
 
-*Texto prueba7
-*Texto prueba7
-    *Texto prueba7
-    *Texto prueba7
+* Texto prueba7
+* Texto prueba7
+    * Texto prueba7
+    * Texto prueba7
